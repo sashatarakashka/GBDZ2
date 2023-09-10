@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Сашка\\Desktop\\GBDZ2\\GBDZ2.csproj": {}
+    "C:\\Users\\Сашка\\Desktop\\GBDZ2\\zadacha10\\GBDZ2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Сашка\\Desktop\\GBDZ2\\GBDZ2.csproj": {
+    "C:\\Users\\Сашка\\Desktop\\GBDZ2\\zadacha10\\GBDZ2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Сашка\\Desktop\\GBDZ2\\GBDZ2.csproj",
+        "projectUniqueName": "C:\\Users\\Сашка\\Desktop\\GBDZ2\\zadacha10\\GBDZ2.csproj",
         "projectName": "GBDZ2",
-        "projectPath": "C:\\Users\\Сашка\\Desktop\\GBDZ2\\GBDZ2.csproj",
+        "projectPath": "C:\\Users\\Сашка\\Desktop\\GBDZ2\\zadacha10\\GBDZ2.csproj",
         "packagesPath": "C:\\Users\\Сашка\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Сашка\\Desktop\\GBDZ2\\obj\\",
+        "outputPath": "C:\\Users\\Сашка\\Desktop\\GBDZ2\\zadacha10\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Сашка\\AppData\\Roaming\\NuGet\\NuGet.Config"
