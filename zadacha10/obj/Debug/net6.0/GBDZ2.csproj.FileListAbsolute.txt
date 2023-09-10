@@ -1,0 +1,15 @@
+C:\Users\Сашка\Desktop\GBDZ2\obj\Debug\net6.0\GBDZ2.csproj.AssemblyReference.cache
+C:\Users\Сашка\Desktop\GBDZ2\obj\Debug\net6.0\GBDZ2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сашка\Desktop\GBDZ2\obj\Debug\net6.0\GBDZ2.AssemblyInfoInputs.cache
+C:\Users\Сашка\Desktop\GBDZ2\obj\Debug\net6.0\GBDZ2.AssemblyInfo.cs
+C:\Users\Сашка\Desktop\GBDZ2\obj\Debug\net6.0\GBDZ2.csproj.CoreCompileInputs.cache
+C:\Users\Сашка\Desktop\GBDZ2\bin\Debug\net6.0\GBDZ2.exe
+C:\Users\Сашка\Desktop\GBDZ2\bin\Debug\net6.0\GBDZ2.deps.json
+C:\Users\Сашка\Desktop\GBDZ2\bin\Debug\net6.0\GBDZ2.runtimeconfig.json
+C:\Users\Сашка\Desktop\GBDZ2\bin\Debug\net6.0\GBDZ2.dll
+C:\Users\Сашка\Desktop\GBDZ2\bin\Debug\net6.0\GBDZ2.pdb
+C:\Users\Сашка\Desktop\GBDZ2\obj\Debug\net6.0\GBDZ2.dll
+C:\Users\Сашка\Desktop\GBDZ2\obj\Debug\net6.0\refint\GBDZ2.dll
+C:\Users\Сашка\Desktop\GBDZ2\obj\Debug\net6.0\GBDZ2.pdb
+C:\Users\Сашка\Desktop\GBDZ2\obj\Debug\net6.0\GBDZ2.genruntimeconfig.cache
+C:\Users\Сашка\Desktop\GBDZ2\obj\Debug\net6.0\ref\GBDZ2.dll
